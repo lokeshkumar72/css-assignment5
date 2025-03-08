@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(1, 179, 1);
+    color: rgb(236, 4, 4);
+    justify-content: center;
+    margin-left: 500px;
+}
+.box{
+    height: 100px;
+    background-color: bisque;
+    width: 100px;
+    margin: 15px;
+    transition-duration: 2s;
+}
+#box1:hover{
+    background-image: url(./24185fe391565e18db7ca088009b7a7e.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 250px;
+    height: 250px;
+    transition:width 2s, height 2s;
+    border-radius: 50px 50px 50px 50px;
+}
+#box2:hover{
+    background-image: url(./76ea1993b3844d61e6336986743d99b5.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 250px;
+    height: 250px;
+    transition: width 2s, height 2s;
+    border-radius: 50px 50px 50px 50px;
+}
+#box3:hover{
+    background-image: url(./kisspng-history-of-the-indian-navy-indian-naval-ensign-naval-dockyard-visakhapatnam-recruitment-1-2-vacan-5bfe50d91446c5.4271742915433934970831.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 250px;
+    height: 250px;
+    transition: width 2s, height 2s;
+    border-radius: 50px 50px 50px 50px;
+}
+
+a{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
